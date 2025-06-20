@@ -23,6 +23,8 @@ public class Calculator {
 		System.out.println("This is division method");
 		System.out.println("This is another method");
 		System.out.println("This is the third method.");
+		System.out.println("This is the fourth method.");
+		
 		
 	}
 }
