@@ -11,4 +11,10 @@ public class Calculator {
 	{
               System.out.println("This is substraction method");
 	}
+	
+	
+	public void multiplication()
+	{
+		System.out.println("This is multiplication method.");
+	}
 }
