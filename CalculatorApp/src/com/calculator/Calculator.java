@@ -22,5 +22,6 @@ public class Calculator {
 	{
 		System.out.println("This is division method");
 		System.out.println("This is second method");
+		System.out.println("This is third methods");
 	}
 }
