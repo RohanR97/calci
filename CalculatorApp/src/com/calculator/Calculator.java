@@ -17,4 +17,9 @@ public class Calculator {
 	{
 		System.out.println("This is multiplication method.");
 	}
+
+	public void division()
+	{
+		System.out.println("This is division method");
+	}
 }
